@@ -15,3 +15,7 @@ I'd like to thank Google for lots of assistance on this one.
 
 License
 Refer to license in the repo
+
+https://johnnyowen.github.io/PasswordGenerator/
+
+![image](https://user-images.githubusercontent.com/127053240/230443396-604302c6-69bd-4d02-a51e-22ec46aa96c5.png)
