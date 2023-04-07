@@ -13,7 +13,7 @@ You can use this sitte to generate a random password that is betweeen 8 and 128 
 ## Credits
 I'd like to thank Google for lots of assistance on this one.
 
-License
+## License
 Refer to license in the repo
 
 https://johnnyowen.github.io/PasswordGenerator/
